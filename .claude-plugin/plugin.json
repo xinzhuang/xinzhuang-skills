@@ -1,0 +1,17 @@
+{
+  "name": "package-ai-partner",
+  "version": "1.0.0",
+  "description": "封装 AI Partner 技能",
+  "author": {
+    "name": "xinzhuang",
+    "url": "https://xinzhuang.github.io/"
+  },
+  "repository": "https://github.com/xinzhuang/xinzhuang-skills",
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "partner",
+    "pkm",
+    "packaging"
+  ]
+}

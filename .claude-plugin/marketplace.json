@@ -1,0 +1,15 @@
+{
+  "name": "ai-partner-skills",
+  "owner": {
+    "name": "xinzhuang",
+    "url": "https://xinzhuang.github.io/"
+  },
+  "plugins": [
+    {
+      "name": "package-ai-partner",
+      "source": "./",
+      "description": "Claude Skills for packaging Partner",
+      "version": "1.0.0"
+    }
+  ]
+}
