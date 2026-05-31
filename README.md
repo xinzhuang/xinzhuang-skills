@@ -46,6 +46,7 @@ npx skills add git@github.com:xinzhuang/xinzhuang-skills.git --skill smart-quest
 npx skills add git@github.com:xinzhuang/xinzhuang-skills.git --skill ymodel
 npx skills add git@github.com:xinzhuang/xinzhuang-skills.git --skill competence-reflection
 npx skills add git@github.com:xinzhuang/xinzhuang-skills.git --skill deliberate-practice
+npx skills add git@github.com:xinzhuang/xinzhuang-skills.git --skill funasr-transcriber
 ```
 
 
@@ -59,6 +60,7 @@ npx skills add git@github.com:xinzhuang/xinzhuang-skills.git --skill deliberate-
 | [knowledge-base](skills/knowledge-base) | 创建领域知识库——规划大纲、批量生成结构化笔记、产出可检索知识体系 | 系统学习某领域、建立知识体系、`/kb` |
 | [profession-research](skills/profession-research) | 深度调研任意职业，输出职业全景图或 AI agent 人设 | 了解职业、转行参考、制作职业 agent 人设 |
 | [smart-questions](skills/smart-questions) | 提问方法论——组织问题、评估质量、重新定义卡住的问题 | 准备 bug 报告、业务提案、研究咨询、支持请求 |
+| [funasr-transcriber](skills/funasr-transcriber) | 基于 FunASR 的音视频转录——支持中英文、说话人分段、时间戳 | 会议录音转文字、访谈转录、视频字幕提取、播客转文本 |
 
 ### 科学成事体系（Y模型闭环）
 
@@ -136,6 +138,10 @@ Claude：好的，我来帮你创建。请问：
 ---
 
 ## 更新日志
+
+### v1.2.0
+
+- 新增 `funasr-transcriber` 技能（基于 FunASR 的音视频转录，支持中英文、说话人分段、时间戳）
 
 ### v1.1.0
 
